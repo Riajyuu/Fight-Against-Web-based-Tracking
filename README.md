@@ -10,6 +10,10 @@ Simply fork & PR. But pls do check the [contribution guidelines](contributing.md
 
 No will to accept any, in both aspects of respecting the license and of my financial status.
 
+#### Is there T.O.C.?
+
+Check [here](toc.md).
+
 ---
 
 #### LICENSE
