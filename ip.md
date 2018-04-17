@@ -14,7 +14,7 @@ It can reveal your both unproxied public and local IP (both IPv4/6) without any 
 
 
 
-Recommended solution: [uBlock Origin](https://github.com/gorhill/uBlock/).
+Recommended solution: [uBlock Origin](https://github.com/gorhill/uBlock/), in `Settings` tab of extension option page, click `Prevent WebRTC from leaking local IP addresses`.
 
 
 

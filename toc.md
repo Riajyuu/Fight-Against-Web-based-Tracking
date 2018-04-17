@@ -22,6 +22,10 @@ There are some basic principles you need to adopt before anything else as priori
 
 This is the most basic part of web indentification info yet the most easily-covered.
 
+#### [Geolocation Info](geolocation.md)
+
+This can be useful sometimes but also abused sometimes.
+
 #### [Orther Tricks](tricks.md)
 
 Some orther tricks within front-end aspects and/or back-end.
