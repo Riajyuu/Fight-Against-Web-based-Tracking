@@ -1,6 +1,6 @@
 #### What is this about?
 
-Here is summarized knowledge about what you should know about web-based tracking and fight against them.
+Here is summarized knowledge about what you should know about web-based tracking and fight (simple solutions) against them.
 
 #### How can I contribution?
 
